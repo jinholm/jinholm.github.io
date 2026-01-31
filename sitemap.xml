@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jinholm.github.io/posts/jan-31-2026/</loc>
-    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jinholm.github.io/</loc>
     <lastmod>2026-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jinholm.github.io/posts/</loc>
+    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jinholm.github.io/posts/jan-31-2026/</loc>
+    <lastmod>2026-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jinholm.github.io/posts/%E6%8E%A8%E5%9D%91/</loc>
     <lastmod>2026-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jinholm.github.io/table-of-content/</loc>
@@ -36,8 +39,6 @@
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jinholm.github.io/pages/about/</loc>
-  </url><url>
-    <loc>https://jinholm.github.io/ata_33-light/</loc>
   </url><url>
     <loc>https://jinholm.github.io/categories/</loc>
   </url><url>
