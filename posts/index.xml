@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Awesome Blog</title>
-    <link>https://hba.sid.one/posts/</link>
-    <description>Recent content in Posts on Awesome Blog</description>
+    <title>Posts on Holm Blog</title>
+    <link>https://jinholm.github.io/posts/</link>
+    <description>Recent content in Posts on Holm Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hba.sid.one/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jinholm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20260131</title>
-      <link>https://hba.sid.one/posts/jan-31-2026/</link>
+      <link>https://jinholm.github.io/posts/jan-31-2026/</link>
       <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
       
-      <guid>https://hba.sid.one/posts/jan-31-2026/</guid>
+      <guid>https://jinholm.github.io/posts/jan-31-2026/</guid>
       
       <description>&lt;p&gt;上傳測試囉～&lt;/p&gt;</description>
       
