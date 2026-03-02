@@ -1,21 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Holm Blog</title>
     <link>https://jinholm.github.io/posts/</link>
     <description>Recent content in Posts on Holm Blog</description>
-    <generator>Hugo -- 0.155.0</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <atom:link href="https://jinholm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://jinholm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>一步一步長出來</title>
+      <link>https://jinholm.github.io/posts/jan-31-2026/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinholm.github.io/posts/jan-31-2026/</guid>
+      
+      <description>&lt;p&gt;成功上傳第一篇啦！&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>來推提升生活品質的燈泡</title>
+      <link>https://jinholm.github.io/posts/%E6%8E%A8%E5%9D%91/</link>
+      <pubDate>Sat, 31 Jan 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://jinholm.github.io/posts/%E6%8E%A8%E5%9D%91/</guid>
+      
+      <description>&lt;p&gt;要來推一下日本的 Toshiba Pride 系列高演色率 LED 燈泡，讓家中空間瞬間活過來。&lt;/p&gt;
+&lt;p&gt;高演色率是什意思？演色率越高，越接近太陽光產生的光，讓顏色看起來更豐富、更立體。而這系列燈泡演色率高達 93，相比台灣買得到的燈泡只有 80 完全是天差地遠。&lt;/p&gt;
+&lt;p&gt;雖然是日本限定的燈泡系列，但在台灣實測是完全可以使用的。相容 E27 的燈具，且 110V 電壓也可點亮。日本的 Biccamera 與 Yodobashi camera 門市都有販售，推薦先去他們的官網查詢庫存，避免撲空。&lt;/p&gt;
+&lt;p&gt;最後放上連結啦，推薦給各位一起脫離平淡髒亂的 LED 燈泡燈光。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.yodobashi.com/product/100000001007658902/&#34;&gt;Yodobashi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.biccamera.com/bc/item/11020384/&#34;&gt;Biccamera&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
     <item>
       <title></title>
       <link>https://jinholm.github.io/posts/%E5%8F%AA%E6%9C%89%E6%88%91%E9%80%99%E6%A8%A3%E5%AD%90%E5%97%8E/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://jinholm.github.io/posts/%E5%8F%AA%E6%9C%89%E6%88%91%E9%80%99%E6%A8%A3%E5%AD%90%E5%97%8E/</guid>
+      
       <description>&lt;p&gt;我是一個整線控，看到身邊的充電線變成一坨會渾身不舒服，恨不得立馬拿起來卷成一圈或把它順直。&lt;/p&gt;
 &lt;p&gt;我想最經典的案例就是開車時，將傳輸線插上手機後，我會將它捲成一圈收好，然後掛在或放入它專屬的位子。為此，我還特別挑了一條比較軟的傳輸線，讓我比較好卷（收納）他。&lt;/p&gt;
 &lt;p&gt;另外家裡充電的傳輸線，我也為他們設計了專屬的位子。將各種線材插上專屬充電器後，一一的把線掛上設計好的固定座，每次要充電時，我只要把線拉出來，充完電後，讓重力將電線拉回原位，我只需要把線頭掛回固定器就好。&lt;/p&gt;
 &lt;p&gt;我想我對線材的整理可能快要進入偏執的階段，但想著每次要用時我不用花時間把打結的線解開，也避免未來的我因此爆炸，瞬間覺得這是一項超值得投資。&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>
